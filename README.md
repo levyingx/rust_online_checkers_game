@@ -30,7 +30,7 @@
 2. The board's state data should be stored in a compact data structure to be easily accessible and editable later.
 3. 
 4. The player can move their pieces by inputting two coordinates: where the piece is and where it goes.
-5. The starting coordinate goes through a function named `check_player_move()`to see if the starting coordinate is pointing at the the player's piece. If so, check the end coordinate to see if the move is valid (inside bounds and tile = '⬛'.
+5. The starting coordinate goes through a function named `check_player_move()`to see if the starting coordinate is pointing at the the player's piece. If so, check the end coordinate to see if the move is valid (inside bounds and tile = '⬛').
 6. After the move is done, send the data online and update both screens;
 
 7. 
