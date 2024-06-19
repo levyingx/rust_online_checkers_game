@@ -49,7 +49,6 @@
 ### Optional features:
 - Randomly decide the game starter;
 - Loser picks pieces' color;
-- Forfeit button;
 - Count how many pieces are left in the board for each player;
 - Update the screen by overwriting the previous frame;
 - The second player's game should be upside down;
